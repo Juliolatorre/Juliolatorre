@@ -39,8 +39,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliolatorre&color=red" alt="Profile views" /> </p>
 
 <div align="center">
-  
-![Snake animation](https://github.com/Juliolatorre/Juliolatorre/blob/output/github-contribution-grid-snake.svg)
-  
+ 
+![Snake animation](https://github.comJuliolatorre/Juliolatorre/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 <br><br>
