@@ -45,8 +45,6 @@ Estudando no momento
 
 </div>
 
-<br>
-
 ##
 
  <div align="center">  
