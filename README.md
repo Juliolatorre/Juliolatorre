@@ -1,4 +1,4 @@
-<h1 align="left">Olá Devs<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou  o <a href="https://github.com/Juliolatorre/"><i>Julio Latorre</i></a> 👍</h1>
+<h1 align="left">Olá Devs<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Eu sou  o <a href="https://github.com/Juliolatorre/"><i>Julio Latorre</i></a> 👍</h1>
 
 <div>
     <p align="center">Estudo Desenvolvimento Web e sou fascinado por tudo relacionado com tecnologia. 🚀    
