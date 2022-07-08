@@ -41,9 +41,7 @@ Estudando no momento
 
 <div align="center">  
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juliolatorre&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=pt-br&fire=DD37BE)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliolatorre&theme=tokyonight&show_icons=true)
 
 </div>
 
