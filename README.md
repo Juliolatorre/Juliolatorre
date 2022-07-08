@@ -11,6 +11,8 @@
   </a>
 </div>
 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juliolatorre&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)  
+    
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
