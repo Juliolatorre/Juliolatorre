@@ -4,8 +4,7 @@
     <p align="center">Estudo Desenvolvimento Web e sou fascinado por tudo relacionado com tecnologia. 🚀    
 <div align="center">
 Estudando no momento 📖 💪
-
-    JavaScript, HTML, CSS, React e TypeScript.
+ HTML, CSS, React , JavaScript e TypeScript.
   <a href="https://github.com/Juliolatorre">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juliolatorre&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliolatorre&theme=dracula&hide_border=false&&layout=compact"/>
